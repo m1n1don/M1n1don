@@ -51,3 +51,8 @@
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=M1n1don&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/M1n1don/)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1n1don&layout=compact&theme=tokyonight)](https://github.com/M1n1don/)
+
+## Other
+<a href="https://www.resume.id/m1n1don">
+  <img src="https://assets.st-note.com/production/uploads/images/9671875/a3dd7cb0acf6df8be731a2ace6750692.png"
+</a>
