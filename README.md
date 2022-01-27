@@ -41,11 +41,7 @@
 <br />
 
 ## Works 🎓
-* [ZomZone](https://monkeyfunky.net/)
-* Entdecken Network
-<br>
-
-* [LemonProjects](https://www.lemonprojects.net/)
+* 現在は活動をしておりません。
 
 ## Status ⭐
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=M1n1don&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/M1n1don/)
