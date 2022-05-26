@@ -41,7 +41,13 @@
 <br />
 
 ## Works 🎓
-* 現在は活動をしておりません。
+### Minecraft
+* ZomZone（10.31.2021 〜 ）
+* CaffeinRPG（1.15.2021 〜 8.26.2021、5.31.2022 〜 ）
+* 畳サーバー（12.4.2021 〜 1.4.2022、3.13.2022 〜 ）
+
+### Hosting
+* Hochste Networks
 
 ## Status ⭐
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=M1n1don&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/M1n1don/)
