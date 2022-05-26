@@ -3,6 +3,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L46FS43)
 
 ## Skills 🙌
+[Resumeはこちら](https://www.resume.id/m1n1don)
 
 ### Languages
 
