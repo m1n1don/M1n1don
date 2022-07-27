@@ -42,7 +42,7 @@
 
 ## Works 🎓
 ### Minecraft
-* CaffeinRPG（1.15.2021 〜 8.26.2021、5.31.2022 〜 ）
+* None
 
 ### Hosting
 * Hochste Networks
