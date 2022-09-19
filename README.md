@@ -41,11 +41,7 @@
 <br />
 
 ## Works 🎓
-### Minecraft
-* None
-
-### Hosting
-* Hochste Networks
+Not Working.
 
 ## Status ⭐
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=M1n1don&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/M1n1don/)
