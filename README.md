@@ -107,7 +107,7 @@ $ about_me
 <br/>
 
 ## Top Open Source
-[![Seriolab Website](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=seriolab-website&theme=dark)](https://github.com/M1n1don/seriolab-website)
+[![Seriolab Website](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=seriolab.jp&theme=dark)](https://github.com/M1n1don/seriolab.jp)
 [![IceCat](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=IceCat&theme=dark)](https://github.com/IceServerLab/IceCat)
 [![Lobby](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=Lobby&theme=dark)](https://github.com/IceServerLab/Lobby)
 [![M1n1don Readme](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=M1n1don&theme=dark)](https://github.com/M1n1don/M1n1don)
