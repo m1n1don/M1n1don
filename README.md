@@ -6,13 +6,13 @@
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://alsiam.com">Minidon</a></b>
+    <b><a target="_blank" href="https://www.seriolab.jp/">Minidon</a></b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.youtube.com/@M1n1don/">「 Follow Me 」</a>
+    <a href="https://twitter.com/M1n1don/">「 Follow Me 」</a>
     <br>
     「 I am studying cyber security from <b>Japan</b> 」
     <br>
