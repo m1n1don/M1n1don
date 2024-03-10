@@ -1,54 +1,141 @@
-# どうも、みにどんです 🙂
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L46FS43)
-
-## Skills 🙌
-
-### Languages
-
-<img align="left" alt="Java" width="27px" height="27px" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"/>
-<img align="left" alt="Kotlin" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
-<img align="left" alt="JavaScript" width="27px" height="27px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
-<img align="left" alt="Vue" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/>
-<img align="left" alt="PHP" width="27px" height="27px" src="https://freeiconshop.com/wp-content/uploads/edd/php-flat.png"/>
-<img align="left" alt="Ruby" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/>
-<img align="left" alt="Python" width="27px" height="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>
-<img align="left" alt="Bash" width="27px" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" alt="SQL" width="27px" height="27px" src="https://i.imgur.com/ZKa8Wc8.png"/>
-
-<br />
-<br />
-
-### Markup and Design
-
-<img align="left" alt="HTML5" width="27px" height="27px" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"/>
-<img align="left" alt="CSS3" width="27px" height="27px" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"/>
-<img align="left" alt="SCSS" width="27px" height="27px" src="https://cdn.345tool.com/public/logos/scss-formatter-logo.png"/>
-<img align="left" alt="XML" width="27px" height="27px" src="https://i.imgur.com/i6ZtksA.png"/>
-<img align="left" alt="JSON" width="27px" height="27px" src="https://i.imgur.com/EJ4V5k9.png"/>
-
-<br />
-<br />
-
-### OS
-
-<img align="left" alt="UNIX-Based OS" width="27px" height="27px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"/>
-<img align="left" alt="Miracle Linux" width="27px" height="27px" src="https://store-images.s-microsoft.com/image/apps.61923.8ab8008d-12bc-445d-87f2-31c3333bbc94.0ffefd74-3fd1-434b-beaa-e74dc03efbab.86d46e92-6322-4815-ac65-4723f047b560"/>
-<img align="left" alt="CentOS" width="27px" height="27px" src="https://4.bp.blogspot.com/-17Iss2YNiFs/Xemdci6R4NI/AAAAAAAAKII/HrohgMxuFJkX6qZNP15t2dzsrzzFoC7EACLcBGAsYHQ/s1600/centos-322.png"/>
-<img align="left" alt="Ubuntu" width="27px" height="27px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png"/>
-
-<br />
-<br />
-
-## Works 🎓
-Not Working.
-
-## Status ⭐
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=M1n1don&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/M1n1don/)
-
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1n1don&layout=compact&theme=tokyonight)](https://github.com/M1n1don/)
-
-## Other
-<a href="https://www.resume.id/m1n1don">
-  <img src="https://assets.st-note.com/production/uploads/images/9671875/a3dd7cb0acf6df8be731a2ace6750692.png"
+<a href="https://komarev.com/ghpvc/?username=M1n1don">
+  <img align="right" src="https://komarev.com/ghpvc/?username=M1n1don&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
+[![wakatime](https://wakatime.com/badge/user/19dcec0d-bc76-4163-84a6-52082327bfc6.svg)](https://wakatime.com/@19dcec0d-bc76-4163-84a6-52082327bfc6)
+
+<h3 align="center">
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://alsiam.com">Minidon</a></b>
+  </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.youtube.com/@M1n1don/">「 Follow Me 」</a>
+    <br>
+    「 I am studying cyber security from <b>Japan</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/L3L46FS43" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="m1n1don"  />
+  </a>
+  <br />
+  <a href="https://www.seriolab.jp/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="m1n1don" />
+  </a>
+  <a href="https://discord.gg/B4SYTyW" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="m1n1don"/>
+  </a>
+  <a href="https://twitter.com/M1n1don" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@M1n1don" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="m1n1don" />
+  </a>
+</p>
+<br />
+
+ # About me
+```kotlin
+$ about_me
+               □□□□  ■■■■              profile
+             □□□□□□  ■■■■■■            ----------
+       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "16 years"
+    □□□□□    □□□□□□  ■■■■■■■   ■■■■■   Position: "Shizuoka, Japan"
+   □□□□□□    □□□□□□  ■■■■■■■■  ■■■■■   Languages: ["Kotlin", "Java", "TypeScript", "PHP", "Python"]
+   □□□□□□    □□□□□□  ■■■■■■■■■ ■■■■■   OS: "MacOS"
+   □□□□□□ □□□□□□□□□  ■■■■■■■■■■■■■■    
+   □□□□□□□□□□□□□□□   ■■■■■■■■■■■■■■    
+   □□□□□□□□□□□□□□     ■■■■■■■■■■■■■■   
+   □□□□□□□□□□□□□□□□   ■■■■■■■■■■■■■■■  
+   □□□□□□ □□□□□□□□□  ■■■■■■ ■■■■■■■■   
+   □□□□□□    □□□□□□  ■■■■■■  ■■■■■■■   
+   □□□□□□    □□□□□□  ■■■■■■   ■■■■■■   
+    □□□□□    □□□□□□  ■■■■■■    ■■■■■   contacts
+       □□    □□□□□□  ■■■■■■     ■■     ----------
+             □□□□□□  ■■■■■■            Email: "m1n1don@seriolab.jp"
+               □□□□  ■■■■              Twitter: "@M1n1don"
+```
+<br/>
+
+## Use To Code
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+
+## Top Open Source
+[![IceCat](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=IceCat&theme=dark)](https://github.com/M1n1don/M1n1don)
+[![Lobby](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=Lobby&theme=dark)](https://github.com/M1n1don/M1n1don)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=IceServerLab&repo=Website&theme=dark)](https://github.com/M1n1don/M1n1don)
+[![M1n1don Readme](https://github-readme-stats.vercel.app/api/pin/?username=M1n1don&repo=M1n1don&theme=dark)](https://github.com/M1n1don/M1n1don)
+
+<p align="left">
+  <a href="https://github.com/M1n1don?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/M1n1don">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1n1don&theme=dark" alt="M1n1don's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/M1n1don">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1n1don&theme=dark" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/M1n1don"><img alt="M1n1don's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=M1n1don&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/M1n1don"><img alt="M1n1don's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=M1n1don&langs_count=8&layout=compact&theme=dark" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![M1n1don's Graph](https://github-readme-activity-graph.vercel.app/graph?username=M1n1don&custom_title=Minidon's%20GitHub%20Activity%20Graph&hide_border=true&theme=github-compact&bg_color=141414&title_color=fff&color=fff&point=fff&line=79ff96&radius=5)
