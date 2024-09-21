@@ -45,7 +45,7 @@
 $ about_me
                □□□□  ■■■■              profile
              □□□□□□  ■■■■■■            ----------
-       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "16 years"
+       □□    □□□□□□  ■■■■■■■   ■■      Uptime: "17 years"
     □□□□□    □□□□□□  ■■■■■■■   ■■■■■   Position: "Shizuoka, Japan"
    □□□□□□    □□□□□□  ■■■■■■■■  ■■■■■   Languages: ["Kotlin", "Java", "TypeScript", "PHP", "Python"]
    □□□□□□    □□□□□□  ■■■■■■■■■ ■■■■■   OS: "MacOS"
